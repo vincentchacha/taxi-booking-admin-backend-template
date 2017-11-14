@@ -35,4 +35,4 @@ php artisan migrate
 
 You can access the project on localhost or wherever server you installed on.
 
-![alt text](screenshots/dashboard.jpg "The main dashboard preview image")
+![alt text](screenshots/dashboard.png "The main dashboard preview image")
